@@ -8,7 +8,7 @@ Currently a fresh graduate of Computer Engineering.
 - Kubernetes
 
 ### 📫 How to reach me: 
-<details>echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d</details>
+<details>```echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d```</details>
 
 <!--
 **fmmochtar/fmmochtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
