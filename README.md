@@ -2,7 +2,7 @@
 
 Currently a fresh graduate of Computer Engineering. 
 
-### 🌱 Things that I’m currently on it and also learning ...
+### 🌱 Things that I’m currently on it ...
 - Python 3
 - Docker
 - Kubernetes
