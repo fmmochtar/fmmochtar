@@ -11,10 +11,10 @@ Currently a fresh graduate of Computer Engineering.
 
 
 <details>
-  <summary>Contact me</summary>
-  
+  <summary>Send me an email</summary>
+
 ```echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d  ```
-  
+
 </details>
 
 
