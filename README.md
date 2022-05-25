@@ -3,10 +3,9 @@
 Currently a fresh graduate of Computer Engineering. 
 
 ### 🌱 Things that I’m currently on it ...
-- Python 3
-- Docker
-- Kubernetes
-- Ansible
+- Containerization and Orchestration
+- DevOps
+- Linux System Administration
 
 ### 📫 How to reach me: 
 
