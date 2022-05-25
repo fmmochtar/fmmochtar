@@ -11,7 +11,7 @@ Currently a fresh graduate of Computer Engineering.
 
 
 <details>
-  <summary>Send me an email</summary>
+  <summary>Contact:</summary>
 
 ```echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d  ```
 
