@@ -13,10 +13,11 @@ Currently a fresh graduate of Computer Engineering.
 
 <details>
   <summary>Contact me</summary>
-```bash
-  echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d 
-  ```
+  
+```echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d  ```
+  
 </details>
+
 
 <!--
 **fmmochtar/fmmochtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
