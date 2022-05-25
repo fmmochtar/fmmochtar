@@ -6,10 +6,16 @@ Currently a fresh graduate of Computer Engineering.
 - Python 3
 - Docker
 - Kubernetes
+- Ansible
 
 ### 📫 How to reach me: 
+
+
 <details>
-``` echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d ```
+  <summary>Contact me</summary>
+```bash
+  echo Zm1tb2NodGFyQGdtYWlsLmNvbQ== | base64 -d 
+  ```
 </details>
 
 <!--
