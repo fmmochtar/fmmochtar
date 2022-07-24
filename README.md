@@ -2,7 +2,7 @@
 
 Currently a fresh graduate of Computer Engineering. 
 
-### 🌱 Things that I’m currently on it ...
+### 🌱 Things that I’m currently on it (and learning) ...
 - Containerization and Orchestration
 - DevOps
 - Linux System Administration
