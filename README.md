@@ -4,7 +4,8 @@ Currently a fresh graduate of Computer Engineering.
 
 ### 🌱 Things that I’m currently on it (and learning) ...
 - Containerization and Orchestration
-- DevOps
+- DevOps / SRE related stuffs
+- Cloud Computing (specifically AWS)
 - Linux System Administration
 
 ### 📫 How to reach me: 
@@ -24,9 +25,6 @@ Currently a fresh graduate of Computer Engineering.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
-
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
