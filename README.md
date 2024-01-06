@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a fresh graduate of Computer Engineering. 
+Currently working as an SRE. 
 
 ### 🌱 Things that I’m currently on it (and learning) ...
 - Containerization and Orchestration
